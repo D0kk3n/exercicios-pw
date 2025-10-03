@@ -1,0 +1,12 @@
+body{background-color: rgb(219, 211, 211);
+margin: 0;
+
+text-align: center;
+
+  display: flex;
+  gap: 20px;
+  }
+
+.coluna{flex: 1;
+padding: 10rem;
+border: 5px solid;}

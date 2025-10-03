@@ -1,0 +1,8 @@
+body{font-size: 4rem;
+background-color: black;}
+
+a{color: red;}
+
+a:visited{color: aqua;}
+
+a:hover{color: yellow;}
